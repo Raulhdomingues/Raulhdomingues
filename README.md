@@ -2,7 +2,7 @@
   Hello World, I'm Raul 👨‍💻
 </h1>
 <p align='center'>
-  Desenvolvedor web front-end.
+  Web Developer front-end.
 </p>
 <p align='center'>
   
