@@ -11,13 +11,10 @@
   <a href="https://www.instagram.com/raulhdomingues/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href = "mailto:raulhd2011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+  <a href = "mailto:raulhdomingues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </p>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=raulhdomingues&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulhdomingues&layout=compact&langs_count=7&theme=react"/>
-</p>
+
 <div style="display: inline_block" align="center">
   <img align="center" alt="JAVA" width="40" height="30" src="https://img.icons8.com/color/50/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> 
